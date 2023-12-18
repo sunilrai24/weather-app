@@ -1,0 +1,18 @@
+* {
+  color: white;
+}
+.logo-name {
+  color: white;
+}
+.weather-details {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  gap: 30px;
+}
+.city-details {
+  display: contents;
+}
+img {
+  border-radius: 100%;
+}

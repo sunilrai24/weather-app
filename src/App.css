@@ -1,0 +1,5 @@
+body {
+  background-image: url("./assets/weather.jpeg");
+  background-size: cover;
+  background-position: center; /* This will center the background image */
+}
